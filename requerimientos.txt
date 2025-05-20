@@ -1,0 +1,55 @@
+Detalles de los Modulos y Requerimientos solicitados:
+
+MÓDULO 1: Categorías
+    Gestión de categorías de productos (por ejemplo: papelería, tecnología, oficina, etc.)
+    Registro y edición de categorías con nombre e identificación única
+    Asociación de productos a una o varias categorías
+    Posibilidad de activar o desactivar categorías
+
+MÓDULO 2: Clientes
+    Registro de clientes con información completa: nombre, contacto y dirección
+    Identificación única de cada cliente
+    Consulta de historial de compras y facturación
+    Clasificación de clientes frecuentes o preferentes
+
+MÓDULO 3: Detalles de Ventas
+    Registro detallado de productos vendidos por transacción
+    Asociación con ID de venta
+    Subtotal, impuestos y descuentos aplicados por producto
+    Total general por venta individual
+    Seguimiento por fecha y cliente
+
+MÓDULO 4: Inventario
+    Control de existencias por producto
+    Agregar, actualizar o eliminar productos del stock
+    Registro de entradas y salidas del inventario
+    Visualización de cantidad actual y alertas por bajo stock
+    Reportes periódicos del estado de inventario
+
+MÓDULO 5: Productos
+    Registro completo de productos con ID, nombre, precio y descripción
+    Asociación con categorías y proveedores
+    Código de barras y estado del producto
+    Gestión de precios y costos de adquisición
+    Visualización rápida de disponibilidad
+
+MÓDULO 6: Proveedores
+    Registro de proveedores con datos completos: nombre, contacto, dirección
+    ID único por proveedor
+    Historial de productos suministrados y compras asociadas
+    Estado del proveedor (activo/inactivo)
+    Asociación directa con productos comprados
+
+MÓDULO 7: Recursos Humanos (RRHH)
+    Registro de empleados con información personal y laboral
+    Control de asistencia, turnos y horarios
+    Asignación de roles y permisos en el sistema
+    Historial de actividad y desempeño
+    Gestión de altas, bajas y actualizaciones de personal
+
+MÓDULO 8: Ventas
+    Registro de ventas realizadas con ID único
+    Asociación de productos vendidos y cantidades
+    Selección del método de pago (efectivo, tarjeta, etc.)
+    Asociación con clientes y emisión de comprobantes
+    Historial de ventas con filtro por fecha, producto o cliente
